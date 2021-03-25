@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1616713676 source:c:\users\chris\documents\cosasfacu\primer_tp\calcu.c
+	<stdio.h>
+	<stdlib.h>
+	"calcu.h"
+
+1616711842 c:\users\chris\documents\cosasfacu\primer_tp\calcu.h
+
+1616713676 source:c:\users\chris\documents\cosasfacu\primer_tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calcu.h"
+
